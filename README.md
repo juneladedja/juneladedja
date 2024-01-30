@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @juneladedja !
 - 👀 I’m interested in exploring new technologies and developing software solutions and quick hacks.
 
-- 🛠  Tech Skills
+- 🛠  Tech Skills:
+
 🌐   HTML5, CSS, JavaScript, Bootstrap, Node.js, React, Typescript
 ⚙️   Git, GitHub
 🔧   Visual Studio Code
